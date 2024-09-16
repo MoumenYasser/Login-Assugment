@@ -1,0 +1,18 @@
+body
+{
+    background-color: #24353F;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.group{
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+div div input::placeholder {
+    color: white !important;
+}
+
+input{
+    background-color: transparent;
+}

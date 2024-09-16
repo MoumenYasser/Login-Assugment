@@ -1,0 +1,16 @@
+body
+{
+    background-color: #24353F;
+    color: white;
+    font-family: 'Fredoka One', cursive;
+}
+
+.group {
+    box-shadow: -5px 2px 54px -9px rgba(0, 0, 0, 1);
+}
+
+#signinEmail::placeholder,
+#signinPassword::placeholder {
+    color: white;
+    opacity: 1; /* Firefox */
+  }
